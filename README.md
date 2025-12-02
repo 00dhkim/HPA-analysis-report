@@ -7,9 +7,8 @@
 - 일반 검색(Vector/Keyword)은 수 초(3~9초) 내로 처리되나, CPU 집약적인 Rerank 작업은 95% Latency가 140초를 초과하는 심각한 병목 현상이 발생함. 따라서 고부하 작업의 아키텍처 분리가 필수적임.
 
 
-<img width="80%" alt="bar_plots" src="https://github.com/user-attachments/assets/dc3ffc96-b003-49ff-94b7-83c8b57dc1bb" />
-<img width="60%" alt="time_series_plots" src="https://github.com/user-attachments/assets/979cecbe-f9c2-47da-85af-d9897e40def1" />
-
+<img width="80%" alt="bar_plots" src="bar_plots.png" />
+<img width="60%" alt="time_series_plots" src="time_series_plots.png" />
 
 
 ## Experimental Setup
